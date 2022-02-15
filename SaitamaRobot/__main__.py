@@ -71,7 +71,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-PM_START_TEXT = """Heyo Greninja Here , I am a Mega Bond Greninja X!! I am always up for protecting kalos!!, call me /help and i will be there for helping you...[.](https://telegra.ph/file/36f504f4c0c2f0f138806.jpg)"""
+PM_START_TEXT = """Heyo Greninja Here , I am a Mega Bond Greninja X!! I am always up for protecting kalos!!, call me /help and i will be there for kalos...[.](https://telegra.ph/file/e4c7c85173f8f1565d470.jpg)"""
 
 HELP_STRINGS = """
 Hey there, I'm Nico Robins!
