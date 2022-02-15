@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """Heyo Greninja Here , I am a Mega Bond Greninja X!! I am always up for protecting kalos!!, call me /help and i will be there for kalos...[.](https://telegra.ph/file/e4c7c85173f8f1565d470.jpg)"""
 
 HELP_STRINGS = """
-Hey there, I'm Nico Robins!
+Hey there, I'm Greninja !
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
@@ -88,9 +88,9 @@ List of all the Modules:
     "" if not ALLOW_EXCL else "📝All commands can either be used with / or !.",
 )
 
-EREN_IMG = "https://telegra.ph/file/3e06334617f26c66c4f2b.jpg"
+EREN_IMG = "https://telegra.ph/file/e4c7c85173f8f1565d470.jpg"
 
-DONATE_STRING = """Durov Is my Cousin By The Way.."""
+DONATE_STRING = """Naruto Is my Cousin By The Way.."""
 
 IMPORTED = {}
 MIGRATEABLE = []
